@@ -4,3 +4,7 @@
   transform: scale(1.1);
   background-color: #fed136;
 }
+
+#mainNav {
+  background-color: rgba(0, 0, 0, 0.75);
+}
